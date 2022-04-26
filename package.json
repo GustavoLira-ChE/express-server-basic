@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Ejemplo para la creación de un server con Express.js",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
