@@ -1,0 +1,19 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Ejemplo para la creación de un server con Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "js-project"
+  ],
+  "author": "Gustavo Lira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
