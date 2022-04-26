@@ -2,9 +2,10 @@
   "name": "express_basic",
   "version": "1.0.0",
   "description": "Ejemplo para la creación de un server con Express.js",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
